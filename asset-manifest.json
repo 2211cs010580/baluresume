@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/baluresume/static/css/main.e6c13ad2.css",
+    "main.js": "/baluresume/static/js/main.84218aaf.js",
+    "static/js/592.3db17b26.chunk.js": "/baluresume/static/js/592.3db17b26.chunk.js",
+    "index.html": "/baluresume/index.html",
+    "main.e6c13ad2.css.map": "/baluresume/static/css/main.e6c13ad2.css.map",
+    "main.84218aaf.js.map": "/baluresume/static/js/main.84218aaf.js.map",
+    "592.3db17b26.chunk.js.map": "/baluresume/static/js/592.3db17b26.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.84218aaf.js"
+  ]
+}
